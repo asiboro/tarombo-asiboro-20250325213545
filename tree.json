@@ -1,0 +1,96 @@
+{
+  "families": [
+    {
+      "childRefs": [
+        {
+          "ref": "I2*f2d27d24-79ae-4e2f-af4b-99d55c6ecd4e"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1*23c509d8-11c9-4e15-8675-fa3b6c5de256"
+        }
+      ],
+      "id": "F1*6d3dde14-b406-4675-b440-0a424590e1f0"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I3*67396f56-3fd7-4c2e-8cc2-6ee8833a6309"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I2*f2d27d24-79ae-4e2f-af4b-99d55c6ecd4e"
+        }
+      ],
+      "id": "F2*d787c715-b78e-4dc7-981a-86a92c02b669"
+    }
+  ],
+  "head": {
+    "charset": {
+      "value": "UTF-8"
+    },
+    "date": {
+      "time": "07:56:16",
+      "value": "25 MAR 2025"
+    },
+    "file": "12.json",
+    "gedc": {
+      "form": "LINEAGE-LINKED",
+      "vers": "5.5.1"
+    },
+    "lang": "Japanese",
+    "sour": {
+      "name": "Tarombo",
+      "value": "TAROMBO",
+      "vers": "0.5.6 (2190842)"
+    }
+  },
+  "people": [
+    {
+      "fams": [
+        {
+          "ref": "F1*6d3dde14-b406-4675-b440-0a424590e1f0"
+        }
+      ],
+      "id": "I1*23c509d8-11c9-4e15-8675-fa3b6c5de256",
+      "names": [
+        {
+          "value": "A //"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F1*6d3dde14-b406-4675-b440-0a424590e1f0"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F2*d787c715-b78e-4dc7-981a-86a92c02b669"
+        }
+      ],
+      "id": "I2*f2d27d24-79ae-4e2f-af4b-99d55c6ecd4e",
+      "names": [
+        {
+          "value": "B //"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F2*d787c715-b78e-4dc7-981a-86a92c02b669"
+        }
+      ],
+      "id": "I3*67396f56-3fd7-4c2e-8cc2-6ee8833a6309",
+      "names": [
+        {
+          "value": "C //"
+        }
+      ]
+    }
+  ]
+}
