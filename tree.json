@@ -4,6 +4,9 @@
       "childRefs": [
         {
           "ref": "I2*f2d27d24-79ae-4e2f-af4b-99d55c6ecd4e"
+        },
+        {
+          "ref": "I4*a14ed12d-f306-4018-884d-6b6c5a0e053f"
         }
       ],
       "husbandRefs": [
@@ -89,6 +92,25 @@
       "names": [
         {
           "value": "C //"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F1*6d3dde14-b406-4675-b440-0a424590e1f0"
+        }
+      ],
+      "id": "I4*a14ed12d-f306-4018-884d-6b6c5a0e053f",
+      "names": [
+        {
+          "value": "B1 //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
